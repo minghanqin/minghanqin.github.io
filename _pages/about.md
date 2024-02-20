@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd-Year Master student at Tsinghua University, under the guidance of [Prof. Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate). I got B.Eng. degree in Measurement and control technology and instruments at Southeast University. I am looking for a PhD position in Spring or Fall, 2025.
+I am currently a 3rd-Year Master student at Tsinghua University, under the guidance of [Prof. Haoqian Wang](https://scholar.google.com/citations?hl=zh-CN&user=eldgnIYAAAAJ&view_op=list_works&sortby=pubdate). I got B.Eng. degree in Measurement and control technology and instruments at Southeast University. 
 
 Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
 
