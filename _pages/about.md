@@ -22,12 +22,12 @@ I am currently a 3rd-Year Master student at Tsinghua University, under the guida
 Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
 
 # 🔥 News
-- *2023.11*: &nbsp;🎉🎉 LangSplat is opensourced now! [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) 
-- *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 
+- *2024.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!
+- *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/pdf/2312.16084.pdf)
