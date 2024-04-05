@@ -22,7 +22,7 @@ I am currently a 3rd-Year Master student at [Tsinghua University](https://www.ts
 Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 Highlight !!!
+- *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 Highlight !!! (top 11.9%)
 - *2024.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!
 - *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
 
