@@ -22,12 +22,13 @@ I am currently a 3rd-Year Master student at [Tsinghua University](https://www.ts
 Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 Highlight !!!
 - *2024.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!
 - *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/pdf/2312.16084.pdf)
