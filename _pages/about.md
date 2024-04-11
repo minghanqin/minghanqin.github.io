@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in Measurement and control technology and instruments at [Southeast University](https://www.seu.edu.cn/english/). During my study in [Tsinghua University](https://www.tsinghua.edu.cn/en/), I spent a good time with [prof. Yebin Liu](https://www.liuyebin.com/) and [prof. Hanspeter](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
+I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in Measurement and control technology and instruments at [Southeast University](https://www.seu.edu.cn/english/). During my study in [Tsinghua University](https://www.tsinghua.edu.cn/en/), I spent a good time with [prof. Yebin Liu](https://www.liuyebin.com/) and [prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
 
 Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
 
