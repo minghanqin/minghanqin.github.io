@@ -21,6 +21,8 @@ I am currently a 3rd-Year Master student at [Tsinghua University](https://www.ts
 
 Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
 
+[github](https://github.com/minghanqin) / [google scholar](https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1) / [cv](cv.pdf)
+
 
 # 🔥 News
 - *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 Highlight !!! (top 11.9%)
@@ -59,4 +61,3 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 # 💻 Research Experience
 - *2023.09 - 2024.4*, Harvard University - VCG Lab - Computer Vision Group. I spent a good time with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
-- *2022.10 - 2023.6*, Tsinghua University - 3DV Lab. I spent a good time with [Prof. Yebin Liu](https://www.liuyebin.com/). 
