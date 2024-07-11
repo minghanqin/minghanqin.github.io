@@ -50,6 +50,7 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/pdf/2403.15704.pdf)
 
 [Dongbin Zhang\*](https://github.com/EastbeanZhang), Chuming Wang\*, Weitao Wang, [Peihao Li]("https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ"), <b>Minghan Qin</b>, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
+
 [**Website**](https://eastbeanzhang.github.io/GS-W/) [![](https://img.shields.io/github/stars/eastbeanzhang/Gaussian-Wild?style=flat-square&label=GitHub%20Star)](https://github.com/EastbeanZhang/Gaussian-Wild)
 -  We utilize 3D Gaussian Splatting with introduced separated intrinsic and dynamic appearance to reconstruct scenes from uncontrolled images, achieving high-quality results and a 1000 × rendering speed increase.
 </div>
