@@ -25,6 +25,7 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 
 # 🔥 News
+- *2024.02*: &nbsp;🎉🎉 2 paper accepted to ECCV 2024 !!!
 - *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 <font color="red"><b>Highlight</b></font> !!!
 - *2024.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!
 - *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
@@ -40,6 +41,29 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 [**WEBSITE**](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <strong><span class='show_paper_citations' data=''></span></strong>
 - We introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/GS-W.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/pdf/2403.15704.pdf)
+
+[Dongbin Zhang*](https://github.com/EastbeanZhang), Chuming Wang*, Weitao Wang, [Peihao Li]("https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ"), <b>Minghan Qin</b>, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
+[**Website**](https://eastbeanzhang.github.io/GS-W/) [![](https://img.shields.io/github/stars/eastbeanzhang/Gaussian-Wild?style=flat-square&label=GitHub%20Star)](https://github.com/EastbeanZhang/Gaussian-Wild)
+-  We utilize 3D Gaussian Splatting with introduced separated intrinsic and dynamic appearance to reconstruct scenes from uncontrolled images, achieving high-quality results and a 1000 × rendering speed increase.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/coders.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images](https://arxiv.org/abs/2407.06984)
+
+[Chuanrui Zhang\*](https://xingyoujun.github.io/), Yonggen Ling\*†, Minglei Lu, <b>Minghan Qin</b>, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
+
+[**Website**](https://xingyoujun.github.io/coders) [**Datasets**](https://huggingface.co/datasets/xingyoujun/ss3d) [**Code(Coming soon)**]()
+-  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.
 </div>
 </div>
 
