@@ -16,21 +16,42 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 🤔 About-me
 
-I am currently a 3rd-Year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), under the guidance of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq/). I got B.Eng. degree in Measurement and control technology and instruments at [Southeast University](https://www.seu.edu.cn/english/). During my study in [Tsinghua University](https://www.tsinghua.edu.cn/en/), I spent a good time with [Prof. Yebin Liu](https://www.liuyebin.com/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
+I recently earned my Master’s degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/en/), where I conducted research under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm) and collaborated closely with [Prof. Yebin Liu](https://www.liuyebin.com/) on 3D computer vision. Prior to this, I completed my B.Eng. in Measurement and Control Technology & Instruments at [Southeast University](https://www.seu.edu.cn/english/). During my graduate studies, I also had the privilege of visiting [Harvard University](https://www.harvard.edu/) as a research intern, working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) on computational imaging projects.
 
-Currently, my research topic is 3D computer vision, with a particular focus on 3D scene and 3D human reconstruction. (e.g. NeRF, 3D-GS)
+I am currently an Algorithm Engineer at ByteDance AI-Lab, focusing on cutting-edge challenges in generative AI and embodied intelligence. My work bridges 3D vision with real-world applications, particularly in dynamic scene understanding and human-AI interaction.
 
-[github](https://github.com/minghanqin) / [google scholar](https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1) / [cv](cv.pdf)
+## Research Directions
+
+Core Expertise: 3D computer vision (NeRF, 3D Gaussian Splatting, multi-view reconstruction).
+
+Emerging Focus: Embodied AI-driven video generation, robot-scene interaction, and physics-aware simulation.
+
+Technical Vision: Building scalable frameworks that connect 3D reconstruction, generative models (video/3D assets), and embodied agents for industrial applications.
+
+## Open Opportunities
+
+I am actively recruiting research interns to collaborate on:
+📌 Video Generation: Diffusion models for dynamic scene synthesis
+📌 3D Content Creation: Gaussian Splatting optimization, neural asset generation
+📌 Embodied AI: LLM/Vision-Language models for robot interaction, simulation environments
+
+Candidates with strong coding skills (PyTorch/CUDA) and publications in CVPR/ICCV/ECCV/NeurIPS/SIGGRAPH are encouraged to reach out!
+
+[github](https://github.com/minghanqin) / [google scholar](https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1) 
 
 
 # 🔥 News
+- *2025.02*: &nbsp;🎉🎉 2 paper accepted to CVPR 2025 !!!
+- *2024.09*: &nbsp;🎉🎉 1 paper accepted to NeurIPS 2024 !!!
+- *2024.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2024 !!!
 - *2024.02*: &nbsp;🎉🎉 2 paper accepted to ECCV 2024 !!!
 - *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 <font color="red"><b>Highlight</b></font> !!!
 - *2024.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!
 - *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -39,7 +60,7 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 <b>Minghan Qin\*</b>, [Wanhua Li\*†](https://li-wanhua.github.io/), [Jiawei Zhou\*](https://latitudezhou.github.io/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm), [Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister)
 
-[**WEBSITE**](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <strong><span class='show_paper_citations' data=''></span></strong>
+[**WEBSITE**](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <a href="https://trendshift.io/repositories/6471" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6471" alt="minghanqin%2FLangSplat | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> <strong><span class='show_paper_citations' data=''></span></strong>
 - We introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces.
 </div>
 </div>
@@ -86,3 +107,6 @@ Currently, my research topic is 3D computer vision, with a particular focus on 3
 
 # 💻 Research Experience
 - *2023.09 - 2024.4*, Harvard University - VCG Lab - Computer Vision Group. I spent a good time with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
+
+# 💁 Academic Service
+Reviewers of: CVPR, ECCV, ICCV, NeurIPS, ACM MM, AAAI
