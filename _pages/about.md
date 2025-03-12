@@ -53,6 +53,20 @@ If you are seeking any form of academic cooperation, please feel free to email m
 - *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
 
 # 📝 Selected Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/pdf/2312.16084.pdf)
+
+<b>Minghan Qin\*</b>, [Wanhua Li\*†](https://li-wanhua.github.io/), [Jiawei Zhou\*](https://latitudezhou.github.io/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm), [Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister)
+
+[![Website](https://img.shields.io/badge/Web-Project-green)](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <strong><span class='show_paper_citations' data='ngEXyLkAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+<a href="https://trendshift.io/repositories/6471" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6471" alt="minghanqin%2FLangSplat | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> 
+  - We introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/4d_LangSplat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -81,19 +95,7 @@ Dongbin Zhang, Yunfei Liu, Lijian Lin, Ye Zhu, Kangjie Chen, <b>Minghan Qin</b>,
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-[LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/pdf/2312.16084.pdf)
-
-<b>Minghan Qin\*</b>, [Wanhua Li\*†](https://li-wanhua.github.io/), [Jiawei Zhou\*](https://latitudezhou.github.io/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm), [Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister)
-
-[![Website](https://img.shields.io/badge/Web-Project-green)](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <strong><span class='show_paper_citations' data='ngEXyLkAAAAJ:u-x6o8ySG0sC'></span></strong>
-
-<a href="https://trendshift.io/repositories/6471" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6471" alt="minghanqin%2FLangSplat | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> 
-  - We introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces.
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/hdr_gs.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
