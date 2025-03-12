@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 🤔 About-me
 
-I recently earned my Master’s degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/en/)<img src='./images/thu.png' style='width: 2em;'>, where I conducted research under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm) and collaborated closely with [Prof. Yebin Liu](https://www.liuyebin.com/) on 3D computer vision. Prior to this, I completed my B.Eng. in Measurement and Control Technology & Instruments at [Southeast University](https://www.seu.edu.cn/english/)<img src='./images/seu.png' style='width: 2em;'>. During my graduate studies, I also had the privilege of visiting [Harvard University](https://www.harvard.edu/)<img src='./images/seas.png' style='width: 2em;'> as a research intern, working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) on computational imaging projects.
+I earned my Master’s degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/en/) <img src='./images/thu.png' style='width: 2em;'>, where I conducted research under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm) and collaborated closely with [Prof. Yebin Liu](https://www.liuyebin.com/) on 3D computer vision. Prior to this, I completed my B.Eng. in Measurement and Control Technology & Instruments at [Southeast University](https://www.seu.edu.cn/english/) <img src='./images/seu.png' style='width: 2em;'>. During my graduate studies, I also had the privilege of visiting [Harvard University](https://www.harvard.edu/) <img src='./images/seas.png' style='width: 1.2em;'> as a research intern, working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) on computational imaging projects.
 
-I am currently an Algorithm Engineer at ByteDance<img src='./images/bytedance.png' style='width: 6em;'>, focusing on cutting-edge challenges in generative AI and embodied intelligence. My work bridges 3D vision with real-world applications, particularly in dynamic scene understanding and human-AI interaction.
+I am currently an Researcher at ByteDance <img src='./images/bytedance.png' style='width: 6em;'>, focusing on cutting-edge challenges in generative AI and embodied intelligence. My work bridges 3D vision with real-world applications, particularly in dynamic scene understanding and human-AI interaction.
 
 ## Research Directions
 
@@ -34,15 +34,13 @@ Technical Vision: Building scalable frameworks that connect 3D reconstruction, g
 
 I am actively recruiting research interns to collaborate on:
 
-📌 Video Generation: Diffusion models for dynamic scene synthesis
+📌 3D Content Creation: 3D Reconstruction, Video Generation, 3D Generation
 
-📌 3D Content Creation: Gaussian Splatting optimization, neural asset generation
+📌 3D Scene Perception: 3D Foundation Model
 
 📌 Embodied AI: LLM/Vision-Language models for robot interaction, simulation environments
 
-Candidates with strong coding skills (PyTorch/CUDA) and publications in CVPR/ICCV/ECCV/NeurIPS/SIGGRAPH are encouraged to reach out!
-
-[github](https://github.com/minghanqin) / [google scholar](https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1) 
+If you are seeking any form of academic cooperation, please feel free to email me at [minghan@bytedance.com](mailto:minghan@bytedance.com).
 
 
 # 🔥 News
@@ -91,12 +89,13 @@ Dongbin Zhang, Yunfei Liu, Lijian Lin, Ye Zhu, Kangjie Chen, <b>Minghan Qin</b>,
 <b>Minghan Qin\*</b>, [Wanhua Li\*†](https://li-wanhua.github.io/), [Jiawei Zhou\*](https://latitudezhou.github.io/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm), [Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister)
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <strong><span class='show_paper_citations' data='ngEXyLkAAAAJ:u-x6o8ySG0sC'></span></strong>
+
 <a href="https://trendshift.io/repositories/6471" target="_blank"><img src="https://trendshift.io/api/badge/repositories/6471" alt="minghanqin%2FLangSplat | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> 
   - We introduces LangSplat, which constructs a 3D language field that enables precise and efficient open-vocabulary querying within 3D spaces.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/hdr_gs.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/hdr_gs.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [HDR-GS: Efficient High Dynamic Range Novel View Synthesis at 1000x Speed via Gaussian Splatting](https://arxiv.org/pdf/2405.15125)
