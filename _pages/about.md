@@ -70,11 +70,11 @@ If you are seeking any form of academic cooperation, please feel free to email m
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/4d_LangSplat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models]()
+[4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models](https://arxiv.org/pdf/2503.10437)
 
 Wanhua Li*, Renping Zhou*, Jiawei Zhou, Yingwei Song, Johannes Herter, <b>Minghan Qin</b>, Gao Huang, Hanspeter Pfister
 
-[![Website](https://img.shields.io/badge/Web-Project-green)]()
+[![Website](https://img.shields.io/badge/Web-Project-green)](https://4d-langsplat.github.io/)
 
 <strong><span class='show_paper_citations' data=''></span></strong>
 - We present 4D LangSplat, an approach to constructing a dynamic 4D language field in evolving scenes, leveraging Multimodal Large Language Models.
