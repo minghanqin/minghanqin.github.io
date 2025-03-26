@@ -40,7 +40,7 @@ I am actively recruiting research interns to collaborate on:
 
 📌 Embodied AI: LLM/Vision-Language models for robot interaction, simulation environments
 
-If you are seeking any form of academic cooperation, please feel free to email me at [minghan@bytedance.com](mailto:minghan@bytedance.com).
+If you are seeking any form of academic cooperation, please feel free to email me at [qinminghan1999@gmail.com](mailto:qinminghan1999@gmail.com).
 
 
 # 🔥 News
