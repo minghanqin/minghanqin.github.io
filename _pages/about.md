@@ -120,6 +120,7 @@ Yuang Wang, Chao Wen, Haoyu Guo, Sida Peng, <b>Minghan Qin</b>, Hujun Bao, Xiaow
 
 -  VAP harnesses subject renderings as action proxies for interactive video generation, striking an balance between precision and generality in action representation.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2025, Best Paper Award Candidate</div><img src='images/nova3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -128,6 +129,7 @@ Yuang Wang, Chao Wen, Haoyu Guo, Sida Peng, <b>Minghan Qin</b>, Hujun Bao, Xiaow
 
 Yuxiao Yang, Peihao Li, Yuhong Zhang, Junzhe Lu, Xianglong He, <b>Minghan Qin</b>, Weitao Wang, Haoqian Wang†
 -  NOVA3D unleashes geometric 3D prior from a video diffusion model to generate high-quality textured meshes from input image.
+</div>
 </div>
 
 <h2 id="digital-human">Digital Human</h2>
