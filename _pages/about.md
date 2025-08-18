@@ -8,12 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
 # 🤔 About-me
@@ -24,15 +18,13 @@ I am currently an Researcher at ByteDance Seed <img src='./images/bytedance.png'
 
 <a href='https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1'><img src='./images/scholar_badge.svg' alt='Google Scholar Citations' style='height: 1.5em; vertical-align: middle;'></a>
 
-## Open Opportunities
-
 I am actively recruiting research interns to collaborate on:
 
-📌 3D Scene Perception
+📌 3D Scene Perception.
 
-📌 3D Content Creation
+📌 3D Content Creation.
 
-📌 World Model
+📌 World Model.
 
 If you are seeking any form of academic cooperation, please feel free to email me at [qinminghan1999@gmail.com](mailto:qinminghan1999@gmail.com).
 
@@ -54,7 +46,12 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 # 📝 Publications
 
-[Vision-Language 3D Perception](#multimodal-3d-perception) | [Generation Model](#generation-model) | [Digital Human](#digital-human) | [3D Reconstruction](#3d-reconstruction)
+<div style="text-align: center; margin: 10px 0;">
+  <a href="#multimodal-3d-perception" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ddd; border-radius: 15px; background: #f8f8f8; text-decoration: none; color: #333; font-size: 0.9em;">Vision-Language 3D Perception</a>
+  <a href="#generation-model" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ddd; border-radius: 15px; background: #f8f8f8; text-decoration: none; color: #333; font-size: 0.9em;">Generation Model</a>
+  <a href="#digital-human" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ddd; border-radius: 15px; background: #f8f8f8; text-decoration: none; color: #333; font-size: 0.9em;">Digital Human</a>
+  <a href="#3d-reconstruction" style="margin: 0 5px; padding: 5px 10px; border: 1px solid #ddd; border-radius: 15px; background: #f8f8f8; text-decoration: none; color: #333; font-size: 0.9em;">3D Reconstruction</a>
+</div>
 
 <h2 id="multimodal-3d-perception">Vision-Language 3D Perception</h2> 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024 Highlight</div><img src='images/langsplat.jpg' alt="sym" width="100%"></div></div>
@@ -84,7 +81,7 @@ Wanhua Li*, Renping Zhou*, Jiawei Zhou, Yingwei Song, Johannes Herter, <b>Mingha
 </div>
 </div>
 
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/langsurf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/langsurf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding](https://arxiv.org/pdf/2412.17635)
@@ -97,7 +94,7 @@ Hao Li*, <b>Minghan Qin*†</b>, Zhengyu Zou*, Diqi He, Bohan Li, Bingquan Dai, 
 </div>
 </div>
 
-div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/slgaussian.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/slgaussian.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SLGaussian: Fast Language Gaussian Splatting in Sparse Views](https://arxiv.org/pdf/2412.08331)
