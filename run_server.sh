@@ -1,1 +1,1 @@
-bundle exec jekyll liveserve
+rbenv exec bundle exec jekyll serve

@@ -59,7 +59,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 [LangSplat: 3D Language Gaussian Splatting](https://arxiv.org/pdf/2312.16084.pdf)
 
-<b>Minghan Qin\*</b>, [Wanhua Li\*†](https://li-wanhua.github.io/), [Jiawei Zhou\*](https://latitudezhou.github.io/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm), [Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister)
+<b>Minghan Qin\*</b>, Wanhua Li\*†, Jiawei Zhou\*, Haoqian Wang†, Hanspeter Pfister
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://langsplat.github.io/) [![](https://img.shields.io/github/stars/minghanqin/Langsplat?style=flat-square&label=GitHub%20Star)](https://github.com/minghanqin/LangSplat) <strong><span class='show_paper_citations' data='ngEXyLkAAAAJ:u-x6o8ySG0sC'></span></strong>
 
@@ -73,7 +73,7 @@ If you are seeking any form of academic cooperation, please feel free to email m
 
 [4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models](https://arxiv.org/pdf/2503.10437)
 
-Wanhua Li*, Renping Zhou*, Jiawei Zhou, Yingwei Song, Johannes Herter, <b>Minghan Qin</b>, Gao Huang, Hanspeter Pfister
+Wanhua Li\*, Renping Zhou\*, Jiawei Zhou, Yingwei Song, Johannes Herter, <b>Minghan Qin</b>, Gao Huang, Hanspeter Pfister
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://4d-langsplat.github.io/)
 
@@ -86,7 +86,7 @@ Wanhua Li*, Renping Zhou*, Jiawei Zhou, Yingwei Song, Johannes Herter, <b>Mingha
 
 [LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding](https://arxiv.org/pdf/2412.17635)
 
-Hao Li*, <b>Minghan Qin*†</b>, Zhengyu Zou*, Diqi He, Bohan Li, Bingquan Dai, Dingwen Zhang†, Junwei Han
+Hao Li\*, <b>Minghan Qin\*†</b>, Zhengyu Zou\*, Diqi He, Bohan Li, Bingquan Dai, Dingwen Zhang†, Junwei Han
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://langsurf.github.io/)
 
@@ -177,7 +177,7 @@ Yang Liu*, Xiang Huang*, <b>Minghan Qin</b>, Qinwei Lin, Haoqian Wang (* indicat
 
 [High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field](https://arxiv.org/abs/2310.06275)
 
-<b>Minghan Qin\*</b>, Yifan Liu\*, Yuelang Xu, Xiaochen Zhao, [Yebin Liu†](https://www.liuyebin.com/), [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
+<b>Minghan Qin\*</b>, Yifan Liu\*, Yuelang Xu, Xiaochen Zhao, Yebin Liu†, Haoqian Wang†
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://minghanqin.github.io/AvatarSVE/) -  We introduce a novel Spatially-Varying Expression (SVE) conditioning, encompassing both spatial positional features and global expression information.
 </div>
@@ -202,7 +202,7 @@ Yuanhao Cai , Zihao Xiao, Yixun Liang, <b>Minghan Qin</b>, Yulun Zhang, Xiaokang
 
 [Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections](https://arxiv.org/pdf/2403.15704.pdf)
 
-[Dongbin Zhang\*](https://github.com/EastbeanZhang), Chuming Wang\*, Weitao Wang, [Peihao Li]("https://scholar.google.com/citations?hl=en&user=LYX4AOEAAAAJ"), <b>Minghan Qin</b>, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
+Dongbin Zhang\*, Chuming Wang\*, Weitao Wang, Peihao Li, <b>Minghan Qin</b>, Haoqian Wang†
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://eastbeanzhang.github.io/GS-W/) [![](https://img.shields.io/github/stars/eastbeanzhang/Gaussian-Wild?style=flat-square&label=GitHub%20Star)](https://github.com/EastbeanZhang/Gaussian-Wild)
 -  We utilize 3D Gaussian Splatting with introduced separated intrinsic and dynamic appearance to reconstruct scenes from uncontrolled images, achieving high-quality results and a 1000 × rendering speed increase.
@@ -214,7 +214,7 @@ Yuanhao Cai , Zihao Xiao, Yixun Liang, <b>Minghan Qin</b>, Yulun Zhang, Xiaokang
 
 [Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images](https://arxiv.org/abs/2407.06984)
 
-[Chuanrui Zhang\*](https://xingyoujun.github.io/), Yonggen Ling\*†, Minglei Lu, <b>Minghan Qin</b>, [Haoqian Wang†](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm)
+Chuanrui Zhang\*, Yonggen Ling\*†, Minglei Lu, <b>Minghan Qin</b>, Haoqian Wang†
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://xingyoujun.github.io/coders) [![Datasets](https://img.shields.io/badge/Web-Datasets-blue)](https://huggingface.co/datasets/xingyoujun/ss3d)
 -  We present CODERS, a one-stage approach for Category-level Object Detection, pose Estimation and Reconstruction from Stereo images.
