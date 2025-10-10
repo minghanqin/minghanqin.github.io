@@ -25,7 +25,7 @@ jobs:
           pip install requests beautifulsoup4 anybadge
 
       - name: Run script to update badge
-        run: python scripts/update_scholar_badge.py
+        run: python scripts/main.py
 
       - name: Commit and push if there are changes
         run: |

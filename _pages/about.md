@@ -29,7 +29,8 @@ I am actively recruiting research interns to collaborate on:
 If you are seeking any form of academic cooperation, please feel free to email me at [qinminghan1999@gmail.com](mailto:qinminghan1999@gmail.com).
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2025 !!!
+- *2025.09*: &nbsp;🎉🎉 3 paper accepted to NeurIPS 2025 !!!
+- *2025.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2025 !!!
 - *2025.06*: &nbsp;🎉🎉 2 paper accepted to ICCV 2025 !!!
 - *2025.06*: &nbsp;🎉🎉 NOVA3D has been selected as [ICME 2025 <font color="red"><b>Bestpaper Candidate</b></font>](https://2025.ieeeicme.org/awards/)!!!
 - *2025.02*: &nbsp;🎉🎉 2 paper accepted to CVPR 2025 !!!
@@ -99,7 +100,7 @@ Hao Li\*, <b>Minghan Qin\*†</b>, Zhengyu Zou\*, Diqi He, Bohan Li, Bingquan Da
 
 [SLGaussian: Fast Language Gaussian Splatting in Sparse Views](https://arxiv.org/pdf/2412.08331)
 
-Kangjie Chen*, Bingquan Dai*, <b>Minghan Qin</b>, Dongbin Zhang, Peihao Li, Yingshuang Zou, Haoqian Wang† 
+Kangjie Chen\*, Bingquan Dai\*, <b>Minghan Qin</b>, Dongbin Zhang, Peihao Li, Yingshuang Zou, Haoqian Wang† 
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://chenkangjie1123.github.io/SLGaussian.github.io/)
 
@@ -108,6 +109,20 @@ Kangjie Chen*, Bingquan Dai*, <b>Minghan Qin</b>, Dongbin Zhang, Peihao Li, Ying
 </div>
 
 <h2 id="generation-model">Generation Model</h2>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/meshcoder.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds](https://arxiv.org/pdf/2508.14879)
+
+Bingquan Dai\*, Li Ray Luo\*, Qihong Tang, Jie Wang, Xinyu Lian, Hao Xu, <b>Minghan Qin</b>, Xudong Xu, Bo Dai, Haoqian Wang†, Zhaoyang Lyu†, Jiangmiao Pang
+
+[![Website](https://img.shields.io/badge/Web-Project-green)](https://daibingquan.github.io/MeshCoder/#)
+
+-  MeshCoder generates structured mesh code from 3D point clouds, enhancing shape editing and understanding.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/vap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -185,6 +200,18 @@ Yang Liu*, Xiang Huang*, <b>Minghan Qin</b>, Qinwei Lin, Haoqian Wang (* indicat
 
 <h2 id="3d-reconstruction">3D Reconstruction</h2>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/QAC.png' alt="sym" width="80%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting](https://arxiv.org/pdf/2405.15125)
+
+Kangjie Chen, Yingji Zhong, Zhihao Li, Jiaqi Lin, Youyu Chen, <b>Minghan Qin</b>, Haoqian Wang†
+
+[![Website](https://img.shields.io/badge/Web-Project-green)](https://chenkangjie1123.github.io/Co-Adaptation-3DGS/) [![](https://img.shields.io/github/stars/chenkangjie1123/Co-Adaptation-of-3DGS?style=flat-square&label=GitHub%20Star)](https://github.com/chenkangjie1123/Co-Adaptation-of-3DGS/)
+- This paper introduces the concept of co-adaptation in 3D Gaussian Splatting, analyzes its impact on rendering artifacts, and proposes strategies (Dropout Regularization & Opacity Noise Injection) to reduce it.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/hdr_gs.gif' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -193,7 +220,7 @@ Yang Liu*, Xiang Huang*, <b>Minghan Qin</b>, Qinwei Lin, Haoqian Wang (* indicat
 Yuanhao Cai , Zihao Xiao, Yixun Liang, <b>Minghan Qin</b>, Yulun Zhang, Xiaokang Yang, Yaoyao Liu, Alan Yuille
 
 [![Website](https://img.shields.io/badge/Web-Project-green)](https://github.com/caiyuanhao1998/HDR-GS) [![](https://img.shields.io/github/stars/caiyuanhao1998/HDR-GS?style=flat-square&label=GitHub%20Star)](https://github.com/caiyuanhao1998/HDR-GS)
-- The first 3D Gaussian splatting-based method for high dynamic range imaging
+- This paper presents HDR-GS, a novel 3D Gaussian splatting-based method for high dynamic range imaging that achieves 1000x speedup over existing methods.
 </div>
 </div>
 
@@ -227,7 +254,8 @@ Chuanrui Zhang\*, Yonggen Ling\*†, Minglei Lu, <b>Minghan Qin</b>, Haoqian Wan
 - National 1st Award, [the 10th BD-CASTIC](https://ins.seu.edu.cn/2019/0410/c45116a435789/page.psp), 2019.
 
 # 💻 Research Experience
-- *2023.09 - 2024.4*, Harvard University - VCG Lab - Computer Vision Group. I spent a good time with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
+
+- *2023 - 2024*, Harvard University - VCG Lab - Computer Vision Group. I spent a good time with [Wanhua Li](https://li-wanhua.github.io/) and [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister).
 
 # 💁 Academic Service
 
