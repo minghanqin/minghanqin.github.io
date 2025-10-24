@@ -69,6 +69,19 @@ If you are seeking any form of academic cooperation, please feel free to email m
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/langsplatv2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS](https://arxiv.org/abs/2507.07136)
+
+Wanhua Li\*, Yujie Zhao\*, <b>Minghan Qin\*</b>, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister
+
+[![Website](https://img.shields.io/badge/Web-Project-green)](https://langsplat-v2.github.io/) [![](https://img.shields.io/github/stars/ZhaoYujie2002/LangSplatV2?style=flat-square&label=GitHub%20Star)](https://github.com/ZhaoYujie2002/LangSplatV2)
+
+  - We present LangSplatV2, which achieves high-dimensional feature splatting at 476.2 FPS and 3D open-vocabulary text querying at 384.6 FPS for high-resolution images.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/4d_LangSplat.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
