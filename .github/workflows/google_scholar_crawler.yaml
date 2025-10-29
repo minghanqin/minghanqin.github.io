@@ -22,7 +22,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 anybadge scholarly
+          pip install --upgrade requests beautifulsoup4 anybadge scholarly httpx
 
       - name: Run script to update badge
         run: python scripts/main.py
