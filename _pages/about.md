@@ -14,35 +14,41 @@ redirect_from:
 
 I earned my Master’s degree in Artificial Intelligence from [Tsinghua University](https://www.tsinghua.edu.cn/en/) <img src='./images/thu.png' style='width: 2em;'>, where I conducted research under the supervision of [Prof. Haoqian Wang](https://www.sigs.tsinghua.edu.cn/whq_en/main.htm) and collaborated closely with [Prof. Yebin Liu](https://www.liuyebin.com/) on 3DV & Human Avatar Reconstruction. Prior to this, I completed my B.Eng. in Measurement and Control Technology & Instruments at [Southeast University](https://www.seu.edu.cn/english/) <img src='./images/seu.png' style='width: 2em;'>. During my graduate studies, I also had the privilege of visiting [Harvard University](https://www.harvard.edu/) <img src='./images/seas.png' style='width: 1.2em;'> as a research intern, working with [Prof. Hanspeter Pfister](https://vcg.seas.harvard.edu/people/hanspeter-pfister) on computer graphics.
 
-I am currently an Researcher at ByteDance Seed <img src='./images/bytedance.png' style='width: 6em;'>, focusing on cutting-edge challenges in <b>perception, generation, and world model</b>. 
+I am currently an Researcher at ByteDance Seed <img src='./images/bytedance.png' style='width: 6em;'>, focusing on <b>VLM, 3D, Robotics</b>.
 
 <a href='https://scholar.google.com/citations?user=ngEXyLkAAAAJ&hl=en&authuser=1'><img src='./images/scholar_badge.svg' alt='Google Scholar Citations' style='height: 1.5em; vertical-align: middle;'></a>
 
 I am actively recruiting research interns to collaborate on:
 
-📌 3D Scene Perception.
+📌 VLM/Agentic + 3D.
 
-📌 3D Content Creation.
+📌 3D Generation & Reconstruction.
 
 📌 World Model.
 
 If you are seeking any form of academic cooperation, please feel free to email me at [qinminghan1999@gmail.com](mailto:qinminghan1999@gmail.com).
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 3 paper accepted to NeurIPS 2025 !!!
-- *2025.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2025 !!!
-- *2025.06*: &nbsp;🎉🎉 2 paper accepted to ICCV 2025 !!!
-- *2025.06*: &nbsp;🎉🎉 NOVA3D has been selected as [ICME 2025 <font color="red"><b>Bestpaper Candidate</b></font>](https://2025.ieeeicme.org/awards/)!!!
-- *2025.02*: &nbsp;🎉🎉 2 paper accepted to CVPR 2025 !!!
+- *2026.06*: &nbsp;🎉🎉 1 paper accepted to TPAMI !!!
+- *2026.03*: &nbsp;🎉🎉 1 paper accepted to SIGGRAPH 2026 !!!
+- *2026.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2026 !!!
+- *2026.01*: &nbsp;🎉🎉 2 papers accepted to ICLR 2026 !!!
 <details>
 <summary>More News</summary>
 
-- *2024.09*: &nbsp;🎉🎉 1 paper accepted to NeurIPS 2024 !!!
-- *2024.07*: &nbsp;🎉🎉 1 paper accepted to ACM MM 2024 !!!
-- *2024.02*: &nbsp;🎉🎉 2 paper accepted to ECCV 2024 !!!
-- *2024.02*: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 <font color="red"><b>Highlight</b></font> !!!
-- *2024.02*: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!
-- *2023.11*: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!
+<ul>
+<li><em>2025.09</em>: &nbsp;🎉🎉 3 paper accepted to NeurIPS 2025 !!!</li>
+<li><em>2025.07</em>: &nbsp;🎉🎉 1 paper accepted to ACM MM 2025 !!!</li>
+<li><em>2025.06</em>: &nbsp;🎉🎉 2 paper accepted to ICCV 2025 !!!</li>
+<li><em>2025.06</em>: &nbsp;🎉🎉 NOVA3D has been selected as <a href="https://2025.ieeeicme.org/awards/">ICME 2025 <font color="red"><b>Bestpaper Candidate</b></font></a>!!!</li>
+<li><em>2025.02</em>: &nbsp;🎉🎉 2 paper accepted to CVPR 2025 !!!</li>
+<li><em>2024.09</em>: &nbsp;🎉🎉 1 paper accepted to NeurIPS 2024 !!!</li>
+<li><em>2024.07</em>: &nbsp;🎉🎉 1 paper accepted to ACM MM 2024 !!!</li>
+<li><em>2024.02</em>: &nbsp;🎉🎉 2 paper accepted to ECCV 2024 !!!</li>
+<li><em>2024.02</em>: &nbsp;🎉🎉 LangSplat has been selected as CVPR 2024 <font color="red"><b>Highlight</b></font> !!!</li>
+<li><em>2024.02</em>: &nbsp;🎉🎉 1 paper accepted to CVPR 2024 !!!</li>
+<li><em>2023.11</em>: &nbsp;🎉🎉 1 paper accepted to AAAI 2024 !!!</li>
+</ul>
 </details>
 
 # 📝 Publications
@@ -95,7 +101,7 @@ Wanhua Li\*, Renping Zhou\*, Jiawei Zhou, Yingwei Song, Johannes Herter, <b>Ming
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/langsurf.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/langsurf.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding](https://arxiv.org/pdf/2412.17635)
