@@ -1,1 +1,90 @@
-{"container_type": "Author", "filled": ["basics", "publications", "indices", "counts"], "scholar_id": "ngEXyLkAAAAJ&hl=en&authuser=1", "source": "AUTHOR_PROFILE_PAGE", "name": "Minghan Qin", "url_picture": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=ngEXyLkAAAAJ&citpid=6", "affiliation": "Bytedance Research | Tsinghua University", "organization": 15442380624744264287, "interests": ["Computer Vision", "3D Vision", "3D Scene Perception"], "email_domain": "@mails.tsinghua.edu.cn", "homepage": "https://minghanqin.github.io/", "citedby": 404, "publications": {"ngEXyLkAAAAJ:u-x6o8ySG0sC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "LangSplat: 3d language gaussian splatting", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:u-x6o8ySG0sC", "num_citations": 281, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2236904528655363387", "cites_id": ["2236904528655363387"]}, "ngEXyLkAAAAJ:2osOgNQ5qMEC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:2osOgNQ5qMEC", "num_citations": 68, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5639664236208509538", "cites_id": ["5639664236208509538"]}, "ngEXyLkAAAAJ:d1gkVwhDpl0C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Animatable 3d gaussian: Fast and high-quality reconstruction of multiple human avatars", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:d1gkVwhDpl0C", "num_citations": 23, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8546544697956095387", "cites_id": ["8546544697956095387"]}, "ngEXyLkAAAAJ:IjCSPb-OGe4C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:IjCSPb-OGe4C", "num_citations": 15, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8521456206181711498", "cites_id": ["8521456206181711498"]}, "ngEXyLkAAAAJ:9yKSN-GCB0IC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:9yKSN-GCB0IC", "num_citations": 7, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15277041969567547097", "cites_id": ["15277041969567547097"]}, "ngEXyLkAAAAJ:YsMSGLbcyi4C": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models", "pub_year": "2025"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:YsMSGLbcyi4C", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10488914887205306948", "cites_id": ["10488914887205306948"]}, "ngEXyLkAAAAJ:UeHWp8X0CEIC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:UeHWp8X0CEIC", "num_citations": 4, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6408558974429612593", "cites_id": ["6408558974429612593"]}, "ngEXyLkAAAAJ:eQOLeE2rZwMC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar", "pub_year": "2025"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:eQOLeE2rZwMC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6035106986384920934", "cites_id": ["6035106986384920934"]}, "ngEXyLkAAAAJ:Y0pCki6q_DkC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views", "pub_year": "2024"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:Y0pCki6q_DkC", "num_citations": 1, "citedby_url": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12803083454017550746,10342978788779952032", "cites_id": ["12803083454017550746", "10342978788779952032"]}, "ngEXyLkAAAAJ:_FxGoFyzp5QC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS", "pub_year": "2025"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:_FxGoFyzp5QC", "num_citations": 0}, "ngEXyLkAAAAJ:ufrVoPGSRksC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation", "pub_year": "2025"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:ufrVoPGSRksC", "num_citations": 0}, "ngEXyLkAAAAJ:WF5omc3nYNoC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "ORV: 4D Occupancy-centric Robot Video Generation", "pub_year": "2025"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:WF5omc3nYNoC", "num_citations": 0}, "ngEXyLkAAAAJ:W7OEmFMy1HYC": {"container_type": "Publication", "source": "AUTHOR_PUBLICATION_ENTRY", "bib": {"title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar", "pub_year": "2025"}, "filled": false, "author_pub_id": "ngEXyLkAAAAJ:W7OEmFMy1HYC", "num_citations": 0}}, "citedby5y": 404, "hindex": 5, "hindex5y": 5, "i10index": 4, "i10index5y": 4, "cites_per_year": {"2024": 135, "2025": 267}, "updated": "2025-08-15 08:14:13.875557"}
+{
+  "citedby": 1068,
+  "updated": "2026-06-04T02:15:13.811286+00:00",
+  "publications": {
+    "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
+      "title": "LangSplat: 3d language gaussian splatting",
+      "num_citations": 583
+    },
+    "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
+      "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
+      "num_citations": 167
+    },
+    "ngEXyLkAAAAJ:d1gkVwhDpl0C": {
+      "title": "Animatable 3d gaussian: Fast and high-quality reconstruction of multiple human avatars",
+      "num_citations": 45
+    },
+    "ngEXyLkAAAAJ:IjCSPb-OGe4C": {
+      "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
+      "num_citations": 42
+    },
+    "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
+      "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
+      "num_citations": 36
+    },
+    "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
+      "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+      "num_citations": 30
+    },
+    "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
+      "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
+      "num_citations": 27
+    },
+    "ngEXyLkAAAAJ:UebtZRa9Y70C": {
+      "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
+      "num_citations": 24
+    },
+    "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
+      "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
+      "num_citations": 17
+    },
+    "ngEXyLkAAAAJ:9yKSN-GCB0IC": {
+      "title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field",
+      "num_citations": 16
+    },
+    "ngEXyLkAAAAJ:WF5omc3nYNoC": {
+      "title": "Orv: 4d occupancy-centric robot video generation",
+      "num_citations": 15
+    },
+    "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
+      "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
+      "num_citations": 14
+    },
+    "ngEXyLkAAAAJ:UeHWp8X0CEIC": {
+      "title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images",
+      "num_citations": 12
+    },
+    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
+      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
+      "num_citations": 11
+    },
+    "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
+      "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
+      "num_citations": 11
+    },
+    "ngEXyLkAAAAJ:Se3iqnhoufwC": {
+      "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
+      "num_citations": 9
+    },
+    "ngEXyLkAAAAJ:3fE2CSJIrl8C": {
+      "title": "The less you depend, the more you learn: Synthesizing novel views from sparse, unposed images without any 3d knowledge",
+      "num_citations": 6
+    },
+    "ngEXyLkAAAAJ:ufrVoPGSRksC": {
+      "title": "NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation",
+      "num_citations": 3
+    },
+    "ngEXyLkAAAAJ:8k81kl-MbHgC": {
+      "title": "FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting",
+      "num_citations": 0
+    },
+    "ngEXyLkAAAAJ:5nxA0vEk-isC": {
+      "title": "Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation",
+      "num_citations": 0
+    },
+    "ngEXyLkAAAAJ:hqOjcs7Dif8C": {
+      "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
+      "num_citations": 0
+    }
+  }
+}
