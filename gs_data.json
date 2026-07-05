@@ -1,10 +1,10 @@
 {
-  "citedby": 1129,
-  "updated": "2026-07-04T01:25:48.527039+00:00",
+  "citedby": 1136,
+  "updated": "2026-07-05T01:40:36.668794+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 608
+      "num_citations": 613
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
@@ -24,7 +24,7 @@
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
-      "num_citations": 34
+      "num_citations": 35
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
@@ -50,6 +50,10 @@
       "title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field",
       "num_citations": 16
     },
+    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
+      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
+      "num_citations": 12
+    },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
       "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
       "num_citations": 12
@@ -60,10 +64,6 @@
     },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
       "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 11
-    },
-    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
-      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
       "num_citations": 11
     },
     "ngEXyLkAAAAJ:3fE2CSJIrl8C": {
