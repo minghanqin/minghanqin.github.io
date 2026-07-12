@@ -1,10 +1,10 @@
 {
-  "citedby": 1136,
-  "updated": "2026-07-05T01:40:36.668794+00:00",
+  "citedby": 1152,
+  "updated": "2026-07-12T01:17:47.580453+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 613
+      "num_citations": 622
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
@@ -20,7 +20,7 @@
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
-      "num_citations": 40
+      "num_citations": 41
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
@@ -32,31 +32,31 @@
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
-      "num_citations": 24
+      "num_citations": 25
     },
     "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
       "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
       "num_citations": 22
     },
-    "ngEXyLkAAAAJ:WF5omc3nYNoC": {
-      "title": "Orv: 4d occupancy-centric robot video generation",
-      "num_citations": 17
-    },
     "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
+      "num_citations": 18
+    },
+    "ngEXyLkAAAAJ:WF5omc3nYNoC": {
+      "title": "Orv: 4d occupancy-centric robot video generation",
       "num_citations": 17
     },
     "ngEXyLkAAAAJ:9yKSN-GCB0IC": {
       "title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field",
       "num_citations": 16
     },
-    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
-      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
-      "num_citations": 12
-    },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
       "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
-      "num_citations": 12
+      "num_citations": 15
+    },
+    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
+      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
+      "num_citations": 13
     },
     "ngEXyLkAAAAJ:UeHWp8X0CEIC": {
       "title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images",
