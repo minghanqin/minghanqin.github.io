@@ -1,10 +1,10 @@
 {
-  "citedby": 1158,
-  "updated": "2026-07-17T01:18:29.626343+00:00",
+  "citedby": 1184,
+  "updated": "2026-07-28T01:13:13.759974+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 624
+      "num_citations": 641
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
@@ -16,46 +16,46 @@
     },
     "ngEXyLkAAAAJ:IjCSPb-OGe4C": {
       "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
-      "num_citations": 45
+      "num_citations": 46
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
-      "num_citations": 41
+      "num_citations": 42
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
-      "num_citations": 35
+      "num_citations": 36
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
-      "num_citations": 31
+      "num_citations": 32
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
-      "num_citations": 25
+      "num_citations": 26
     },
     "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
       "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
-      "num_citations": 23
+      "num_citations": 24
     },
     "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
-      "num_citations": 18
+      "num_citations": 19
     },
     "ngEXyLkAAAAJ:WF5omc3nYNoC": {
       "title": "Orv: 4d occupancy-centric robot video generation",
-      "num_citations": 17
+      "num_citations": 18
     },
     "ngEXyLkAAAAJ:9yKSN-GCB0IC": {
       "title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field",
       "num_citations": 16
     },
-    "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
-      "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
-      "num_citations": 15
-    },
     "ngEXyLkAAAAJ:roLk4NBRz8UC": {
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
+      "num_citations": 15
+    },
+    "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
+      "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
       "num_citations": 14
     },
     "ngEXyLkAAAAJ:UeHWp8X0CEIC": {
@@ -68,7 +68,7 @@
     },
     "ngEXyLkAAAAJ:3fE2CSJIrl8C": {
       "title": "The less you depend, the more you learn: Synthesizing novel views from sparse, unposed images without any 3d knowledge",
-      "num_citations": 7
+      "num_citations": 8
     },
     "ngEXyLkAAAAJ:ufrVoPGSRksC": {
       "title": "NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation",
