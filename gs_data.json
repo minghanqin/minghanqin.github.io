@@ -1,6 +1,6 @@
 {
-  "citedby": 1204,
-  "updated": "2026-08-07T01:55:16.458365+00:00",
+  "citedby": 1205,
+  "updated": "2026-08-08T00:37:53.448447+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
@@ -64,7 +64,7 @@
     },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
       "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 10
+      "num_citations": 11
     },
     "ngEXyLkAAAAJ:3fE2CSJIrl8C": {
       "title": "The less you depend, the more you learn: Synthesizing novel views from sparse, unposed images without any 3d knowledge",
