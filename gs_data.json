@@ -1,14 +1,14 @@
 {
-  "citedby": 1226,
-  "updated": "2026-08-14T00:49:45.857682+00:00",
+  "citedby": 1237,
+  "updated": "2026-08-17T00:25:56.965918+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 656
+      "num_citations": 661
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 173
+      "num_citations": 174
     },
     "ngEXyLkAAAAJ:d1gkVwhDpl0C": {
       "title": "Animatable 3d gaussian: Fast and high-quality reconstruction of multiple human avatars",
@@ -18,24 +18,24 @@
       "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
       "num_citations": 46
     },
+    "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
+      "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
+      "num_citations": 44
+    },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
       "num_citations": 43
-    },
-    "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
-      "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
-      "num_citations": 41
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
       "num_citations": 35
     },
-    "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
-      "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
-      "num_citations": 27
-    },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
+      "num_citations": 28
+    },
+    "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
+      "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
       "num_citations": 27
     },
     "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
@@ -84,7 +84,7 @@
     },
     "ngEXyLkAAAAJ:hqOjcs7Dif8C": {
       "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
-      "num_citations": 0
+      "num_citations": 1
     }
   }
 }
