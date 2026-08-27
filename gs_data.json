@@ -1,14 +1,14 @@
 {
-  "citedby": 1250,
-  "updated": "2026-08-22T00:26:33.852906+00:00",
+  "citedby": 1254,
+  "updated": "2026-08-27T05:13:08.243985+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 667
+      "num_citations": 669
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 177
+      "num_citations": 178
     },
     "ngEXyLkAAAAJ:d1gkVwhDpl0C": {
       "title": "Animatable 3d gaussian: Fast and high-quality reconstruction of multiple human avatars",
@@ -28,7 +28,7 @@
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
-      "num_citations": 35
+      "num_citations": 36
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
