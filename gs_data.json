@@ -1,14 +1,14 @@
 {
-  "citedby": 1302,
-  "updated": "2026-09-11T01:35:45.882085+00:00",
+  "citedby": 1313,
+  "updated": "2026-09-15T01:59:54.594708+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 693
+      "num_citations": 699
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 183
+      "num_citations": 184
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
@@ -24,7 +24,7 @@
     },
     "ngEXyLkAAAAJ:IjCSPb-OGe4C": {
       "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
-      "num_citations": 46
+      "num_citations": 47
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
@@ -44,11 +44,11 @@
     },
     "ngEXyLkAAAAJ:roLk4NBRz8UC": {
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
-      "num_citations": 19
+      "num_citations": 20
     },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
       "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
-      "num_citations": 19
+      "num_citations": 20
     },
     "ngEXyLkAAAAJ:WF5omc3nYNoC": {
       "title": "Orv: 4d occupancy-centric robot video generation",
@@ -60,7 +60,7 @@
     },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
       "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 13
+      "num_citations": 14
     },
     "ngEXyLkAAAAJ:UeHWp8X0CEIC": {
       "title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images",
