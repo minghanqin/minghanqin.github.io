@@ -1,22 +1,22 @@
 {
-  "citedby": 1322,
-  "updated": "2026-09-16T01:50:41.420131+00:00",
+  "citedby": 1365,
+  "updated": "2026-09-23T01:56:26.964590+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 702
+      "num_citations": 730
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 185
+      "num_citations": 188
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
-      "num_citations": 52
+      "num_citations": 55
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
-      "num_citations": 48
+      "num_citations": 51
     },
     "ngEXyLkAAAAJ:d1gkVwhDpl0C": {
       "title": "Animatable 3d gaussian: Fast and high-quality reconstruction of multiple human avatars",
@@ -28,23 +28,23 @@
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
-      "num_citations": 36
+      "num_citations": 37
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
-      "num_citations": 31
+      "num_citations": 32
     },
     "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
       "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
-      "num_citations": 29
+      "num_citations": 30
     },
     "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
-      "num_citations": 23
+      "num_citations": 24
     },
     "ngEXyLkAAAAJ:roLk4NBRz8UC": {
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
-      "num_citations": 20
+      "num_citations": 21
     },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
       "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
@@ -60,7 +60,7 @@
     },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
       "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 14
+      "num_citations": 15
     },
     "ngEXyLkAAAAJ:UeHWp8X0CEIC": {
       "title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images",
