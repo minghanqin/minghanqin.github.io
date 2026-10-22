@@ -1,18 +1,18 @@
 {
-  "citedby": 1429,
-  "updated": "2026-10-12T02:46:02.381931+00:00",
+  "citedby": 1464,
+  "updated": "2026-10-22T02:02:20.451768+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 761
+      "num_citations": 777
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 193
+      "num_citations": 195
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
-      "num_citations": 57
+      "num_citations": 60
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
@@ -24,19 +24,19 @@
     },
     "ngEXyLkAAAAJ:d1gkVwhDpl0C": {
       "title": "Animatable 3d gaussian: Fast and high-quality reconstruction of multiple human avatars",
-      "num_citations": 47
+      "num_citations": 48
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
-      "num_citations": 39
+      "num_citations": 42
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
-      "num_citations": 34
+      "num_citations": 35
     },
     "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
       "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
-      "num_citations": 31
+      "num_citations": 32
     },
     "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
@@ -46,21 +46,21 @@
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
       "num_citations": 24
     },
-    "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
-      "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
-      "num_citations": 21
-    },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
       "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 20
+      "num_citations": 22
+    },
+    "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
+      "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
+      "num_citations": 22
     },
     "ngEXyLkAAAAJ:WF5omc3nYNoC": {
       "title": "Orv: 4d occupancy-centric robot video generation",
-      "num_citations": 19
+      "num_citations": 20
     },
     "ngEXyLkAAAAJ:9yKSN-GCB0IC": {
       "title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field",
-      "num_citations": 17
+      "num_citations": 18
     },
     "ngEXyLkAAAAJ:UeHWp8X0CEIC": {
       "title": "Category-level Object Detection, Pose Estimation and Reconstruction from Stereo Images",
@@ -72,11 +72,15 @@
     },
     "ngEXyLkAAAAJ:hqOjcs7Dif8C": {
       "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
-      "num_citations": 6
+      "num_citations": 8
     },
     "ngEXyLkAAAAJ:ufrVoPGSRksC": {
       "title": "NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation",
       "num_citations": 4
+    },
+    "ngEXyLkAAAAJ:5nxA0vEk-isC": {
+      "title": "Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation",
+      "num_citations": 3
     },
     "ngEXyLkAAAAJ:KlAtU1dfN6UC": {
       "title": "Lucida: Parse, generate, and place for composable real-to-sim scene modeling",
@@ -84,10 +88,6 @@
     },
     "ngEXyLkAAAAJ:8k81kl-MbHgC": {
       "title": "FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting",
-      "num_citations": 2
-    },
-    "ngEXyLkAAAAJ:5nxA0vEk-isC": {
-      "title": "Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation",
       "num_citations": 2
     }
   }
