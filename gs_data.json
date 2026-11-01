@@ -1,10 +1,10 @@
 {
-  "citedby": 1489,
-  "updated": "2026-10-28T02:41:00.813874+00:00",
+  "citedby": 1492,
+  "updated": "2026-11-01T02:44:14.427719+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 788
+      "num_citations": 790
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
@@ -16,7 +16,7 @@
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
-      "num_citations": 53
+      "num_citations": 54
     },
     "ngEXyLkAAAAJ:IjCSPb-OGe4C": {
       "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
