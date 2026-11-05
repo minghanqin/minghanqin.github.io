@@ -1,14 +1,14 @@
 {
-  "citedby": 1492,
-  "updated": "2026-11-01T02:44:14.427719+00:00",
+  "citedby": 1507,
+  "updated": "2026-11-05T03:50:31.060592+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 790
+      "num_citations": 799
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 196
+      "num_citations": 198
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
@@ -16,7 +16,7 @@
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
-      "num_citations": 54
+      "num_citations": 55
     },
     "ngEXyLkAAAAJ:IjCSPb-OGe4C": {
       "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
@@ -42,13 +42,13 @@
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
       "num_citations": 27
     },
+    "ngEXyLkAAAAJ:Se3iqnhoufwC": {
+      "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
+      "num_citations": 25
+    },
     "ngEXyLkAAAAJ:roLk4NBRz8UC": {
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
       "num_citations": 25
-    },
-    "ngEXyLkAAAAJ:Se3iqnhoufwC": {
-      "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 24
     },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
       "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
@@ -74,6 +74,10 @@
       "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
       "num_citations": 8
     },
+    "ngEXyLkAAAAJ:KlAtU1dfN6UC": {
+      "title": "Lucida: Parse, generate, and place for composable real-to-sim scene modeling",
+      "num_citations": 4
+    },
     "ngEXyLkAAAAJ:ufrVoPGSRksC": {
       "title": "NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation",
       "num_citations": 4
@@ -85,10 +89,6 @@
     "ngEXyLkAAAAJ:5nxA0vEk-isC": {
       "title": "Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation",
       "num_citations": 3
-    },
-    "ngEXyLkAAAAJ:KlAtU1dfN6UC": {
-      "title": "Lucida: Parse, generate, and place for composable real-to-sim scene modeling",
-      "num_citations": 2
     }
   }
 }
