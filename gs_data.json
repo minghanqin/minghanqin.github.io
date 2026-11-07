@@ -1,22 +1,22 @@
 {
-  "citedby": 1507,
-  "updated": "2026-11-05T03:50:31.060592+00:00",
+  "citedby": 1514,
+  "updated": "2026-11-07T03:20:38.582053+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 799
+      "num_citations": 801
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 198
+      "num_citations": 199
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
-      "num_citations": 64
+      "num_citations": 65
     },
     "ngEXyLkAAAAJ:YsMSGLbcyi4C": {
       "title": "4D LangSplat: 4D Language Gaussian Splatting via Multimodal Large Language Models",
-      "num_citations": 55
+      "num_citations": 57
     },
     "ngEXyLkAAAAJ:IjCSPb-OGe4C": {
       "title": "Hdr-gs: Efficient high dynamic range novel view synthesis at 1000x speed via gaussian splatting",
@@ -42,12 +42,12 @@
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
       "num_citations": 27
     },
-    "ngEXyLkAAAAJ:Se3iqnhoufwC": {
-      "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
-      "num_citations": 25
-    },
     "ngEXyLkAAAAJ:roLk4NBRz8UC": {
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
+      "num_citations": 26
+    },
+    "ngEXyLkAAAAJ:Se3iqnhoufwC": {
+      "title": "MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds",
       "num_citations": 25
     },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
