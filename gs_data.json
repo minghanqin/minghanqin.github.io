@@ -1,10 +1,10 @@
 {
-  "citedby": 1518,
-  "updated": "2026-11-08T02:50:31.324565+00:00",
+  "citedby": 1523,
+  "updated": "2026-11-10T04:51:31.014561+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 802
+      "num_citations": 803
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
@@ -28,7 +28,7 @@
     },
     "ngEXyLkAAAAJ:W7OEmFMy1HYC": {
       "title": "HRAvatar: High-Quality and Relightable Gaussian Head Avatar",
-      "num_citations": 42
+      "num_citations": 44
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
@@ -38,12 +38,12 @@
       "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
       "num_citations": 32
     },
-    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
-      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
-      "num_citations": 27
-    },
     "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
       "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
+      "num_citations": 28
+    },
+    "ngEXyLkAAAAJ:roLk4NBRz8UC": {
+      "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
       "num_citations": 27
     },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
@@ -52,11 +52,11 @@
     },
     "ngEXyLkAAAAJ:LkGwnXOMwfcC": {
       "title": "Precise Action-to-Video Generation Through Visual Action Prompts",
-      "num_citations": 23
+      "num_citations": 24
     },
     "ngEXyLkAAAAJ:WF5omc3nYNoC": {
       "title": "Orv: 4d occupancy-centric robot video generation",
-      "num_citations": 20
+      "num_citations": 21
     },
     "ngEXyLkAAAAJ:9yKSN-GCB0IC": {
       "title": "High-Fidelity 3D Head Avatars Reconstruction through Spatially-Varying Expression Conditioned Neural Radiance Field",
@@ -72,7 +72,7 @@
     },
     "ngEXyLkAAAAJ:hqOjcs7Dif8C": {
       "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
-      "num_citations": 8
+      "num_citations": 7
     },
     "ngEXyLkAAAAJ:KlAtU1dfN6UC": {
       "title": "Lucida: Parse, generate, and place for composable real-to-sim scene modeling",
