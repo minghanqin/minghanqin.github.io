@@ -1,14 +1,14 @@
 {
-  "citedby": 1550,
-  "updated": "2026-11-16T03:20:13.825035+00:00",
+  "citedby": 1567,
+  "updated": "2026-11-21T04:23:23.126227+00:00",
   "publications": {
     "ngEXyLkAAAAJ:u-x6o8ySG0sC": {
       "title": "LangSplat: 3d language gaussian splatting",
-      "num_citations": 815
+      "num_citations": 828
     },
     "ngEXyLkAAAAJ:2osOgNQ5qMEC": {
       "title": "Gaussian in the Wild: 3D Gaussian Splatting for Unconstrained Image Collections",
-      "num_citations": 201
+      "num_citations": 202
     },
     "ngEXyLkAAAAJ:_FxGoFyzp5QC": {
       "title": "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS",
@@ -32,18 +32,18 @@
     },
     "ngEXyLkAAAAJ:UebtZRa9Y70C": {
       "title": "Langsurf: Language-embedded surface gaussians for 3d scene understanding",
-      "num_citations": 37
+      "num_citations": 38
     },
     "ngEXyLkAAAAJ:eQOLeE2rZwMC": {
       "title": "GUAVA: Generalizable Upper Body 3D Gaussian Avatar",
-      "num_citations": 33
-    },
-    "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
-      "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
-      "num_citations": 29
+      "num_citations": 34
     },
     "ngEXyLkAAAAJ:roLk4NBRz8UC": {
       "title": "Quantifying and Alleviating Co-Adaptation in Sparse-View 3D Gaussian Splatting",
+      "num_citations": 28
+    },
+    "ngEXyLkAAAAJ:Y0pCki6q_DkC": {
+      "title": "SLGaussian: Fast Language Gaussian Splatting in Sparse Views",
       "num_citations": 28
     },
     "ngEXyLkAAAAJ:Se3iqnhoufwC": {
@@ -68,7 +68,7 @@
     },
     "ngEXyLkAAAAJ:Zph67rFs4hoC": {
       "title": "The Less You Depend, The More You Learn: Synthesizing Novel Views from Sparse, Unposed Images with Minimal 3D Knowledge",
-      "num_citations": 10
+      "num_citations": 11
     },
     "ngEXyLkAAAAJ:hqOjcs7Dif8C": {
       "title": "SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM",
@@ -82,13 +82,13 @@
       "title": "FieryGS: In-the-Wild Fire Synthesis with Physics-Integrated Gaussian Splatting",
       "num_citations": 4
     },
+    "ngEXyLkAAAAJ:5nxA0vEk-isC": {
+      "title": "Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation",
+      "num_citations": 4
+    },
     "ngEXyLkAAAAJ:ufrVoPGSRksC": {
       "title": "NOVA3D: Normal Aligned Video Diffusion Model for Single Image to 3D Generation",
       "num_citations": 4
-    },
-    "ngEXyLkAAAAJ:5nxA0vEk-isC": {
-      "title": "Seed3D 2.0: Advancing High-Fidelity Simulation-Ready 3D Content Generation",
-      "num_citations": 3
     }
   }
 }
